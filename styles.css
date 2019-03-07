@@ -1,0 +1,45 @@
+body {
+  color:black;
+  background-color:white;
+  /* background-image:url(https://img.wallpapersafari.com/desktop/1920/1080/67/53/Au1Fqk.jpg); */
+}
+
+canvas {
+  border: 1px solid rgb(12, 10, 10);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(http://www.electronicbeats.net/app/uploads/2017/11/cyberpunk-synthwave-bladerunner-80s-nostalgia-playlist-1-1200x675.png);
+  /* background: rgb(17, 110, 32); */
+}
+
+.button-class {
+  text-align: center;
+  margin: 10px;
+}
+
+.scores-mamene{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 40px;
+  color: #038998;
+}
+
+#start-game-button {
+  margin: 50px 0px;
+  color: #fff;
+  background-color: #038998;
+  display: inline-block;
+  padding: 10px 30px;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.scores-mamene {
+  font-family: sans-serif;
+}

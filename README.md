@@ -1,2 +1,2 @@
 # ironhack-module1-bulldog
-A king of Pacman
+A kind of Steal the bacon
